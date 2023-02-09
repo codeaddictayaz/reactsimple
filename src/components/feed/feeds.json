@@ -1,0 +1,58 @@
+
+[
+    {
+        "id":1,
+        "path":"/src/images/1.jpg",
+        "logo":"D",
+        "title":"John doe",
+        "sub":"February 7, 2023",
+        "typo":"this is dummy text from json file used map,custom theme,mui icons are slow used react/icons try to click on avatar pic on appbar or navbar used mui used usestate this is dummy just for testing 123! testing dummy lorem obcecati nobis sequi sequi! localhost:30369, 'no ping'"
+    },
+    {
+        "id":2,
+        "path":"/src/images/2.jpg",
+        "logo":"W",
+        "title":"Wick doe",
+        "sub":"February 12, 2023",
+"typo":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus iusto vero, distinctio culpa necessitatibus officia enim sed quam commodi magni in recusandae repudiandae molestiae consectetur dolores laborum obcaecati nobis sequi!"
+
+    },
+      {
+        "id":3,
+        "path":"/src/images/3.jpg",
+        "title":"Jane doe",
+        "sub":"February 7, 2023",
+        "logo":"J",
+"typo":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus iusto vero, distinctio culpa necessitatibus officia enim sed quam commodi magni in recusandae repudiandae molestiae consectetur dolores laborum obcaecati nobis sequi!"
+
+
+    },
+    {
+        "id":4,
+        "path":"/src/images/4.jpg",
+        "title":"Doe Don",
+        "logo":"A",
+        "sub":"February 10, 2023",
+"typo":"Torem testing dummy text adipisicing elit. Doloribus iusto vero, distinctio culpa necessitatibus officia enim sed quam commodi magni in recusandae repudiandae molestiae consectetur dolores laborum obcaecati nobis sequi!"
+
+    },
+    {
+        "id":5,
+        "path":"/src/images/5.jpg",
+        "logo":"B",
+        "title":"John Rambo",
+        "sub":"February 14, 2023",
+"typo":"Borem testing dummy text adipisicing elit. Doloribus iusto vero, distinctio culpa necessitatibus officia enim sed quam commodi magni in recusandae repudiandae molestiae consectetur dolores laborum obcaecati nobis sequi!"
+
+    },
+    {
+        "id":6,
+        "logo":"C",
+        "path":"/src/images/6.jpg",
+        "title":"Macho Man",
+        "sub":"February 9, 2023",
+"typo":"C this is dummy text dont waste energy  testing dummy text adipisicing elit. Doloribus iusto vero, distinctio culpa necessitatibus officia enim sed quam commodi magni in recusandae repudiandae molestiae consectetur dolores laborum obcaecati nobis sequi!"
+
+    }
+
+]
